@@ -23,6 +23,4 @@ This site shows a recipie for Tofo Spring Rolls in a form of a blog post
 
 
 See it here: 
-
-http://github.com - automatic!
 [Recipie Blog Post](https://ndoan24.github.io/recipe-animation/)
