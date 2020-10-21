@@ -12,6 +12,12 @@ This site shows a recipie for Tofo Spring Rolls in a form of a blog post
 ## **Title**: Recipie Animation Blog Post 
 ## **Date: October 12, 2020
 
+
+## **What was used**:
+* HTML
+* CSS
+
+
 See it here: 
 
 http://github.com - automatic!
