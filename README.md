@@ -4,7 +4,7 @@
 ## **Overview**:
 <br>
 
-This site is to show my work I produced showing animations, transitions, recipie, and more. 
+This site shows a recipie for Tofo Spring Rolls in a form of a blog post
 
 ## **Developer**: Ngoc Doan
 ## **Place:** *Denver, CO*
