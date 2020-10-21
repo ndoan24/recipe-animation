@@ -16,6 +16,10 @@ This site shows a recipie for Tofo Spring Rolls in a form of a blog post
 ## **What was used**:
 * HTML
 * CSS
+* Transition
+* Animation
+* Bootstrap
+
 
 
 See it here: 
